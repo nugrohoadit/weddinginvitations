@@ -600,7 +600,7 @@ body.preloader-site {
 .foto5 {
   background-image: linear-gradient(rgba(188, 136, 135, 0.3), rgba(153, 110, 109, 0.55)), url("../image/foto5.jpg");
   background-size: cover;
-  background-position: center 35%;
+  background-position: center 70%;
   background-repeat:no-repeat;
   min-height: 24rem;
 }
