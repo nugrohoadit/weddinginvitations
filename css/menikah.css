@@ -565,7 +565,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image:url("../image/foto1.jpeg");
+  background-image: linear-gradient(rgba(188, 136, 135, 0.3), rgba(153, 110, 109, 0.55)), url("../image/foto1.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -574,7 +574,7 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image:url("../image/foto3.jpeg");
+  background-image: linear-gradient(rgba(188, 136, 135, 0.3), rgba(153, 110, 109, 0.55)), url("../image/foto3.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -582,7 +582,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image:url("../image/foto2.jpeg");
+  background-image: linear-gradient(rgba(188, 136, 135, 0.3), rgba(153, 110, 109, 0.55)), url("../image/foto2.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -590,7 +590,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image:url("../image/foto4.jpeg");
+  background-image: linear-gradient(rgba(188, 136, 135, 0.3), rgba(153, 110, 109, 0.55)), url("../image/foto4.jpeg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -598,7 +598,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image:url("../image/foto5.jpg");
+  background-image: linear-gradient(rgba(188, 136, 135, 0.3), rgba(153, 110, 109, 0.55)), url("../image/foto5.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -607,7 +607,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image:url("../image/samantha-gades-x40Q9jrEVT0-unsplash.jpg");
+  background-image: linear-gradient(rgba(188, 136, 135, 0.3), rgba(153, 110, 109, 0.55)), url("../image/samantha-gades-x40Q9jrEVT0-unsplash.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
